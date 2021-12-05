@@ -1,6 +1,6 @@
 //
 //  BlelistControllerTableViewController.swift
-//  roboarm
+//  5DOF Manipulator
 //
 //  Created by Subrahmanya Sai Krishna Teja on 10/12/21.
 //
