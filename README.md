@@ -1,2 +1,2 @@
-# 6DOF-robot-arm
-6 Degree of freedom robot arm controlled using bluetooth low energy HM10 via the in house developed IOS app. 
+# 5DOF-robot-arm
+5 Degrees of freedom robotic arm controlled using bluetooth low energy bluetooth module via the in house developed IOS app. 
